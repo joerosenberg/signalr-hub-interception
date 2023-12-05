@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RedisHubLifetimeManagerOverride", "RedisHubLifetimeManagerOverride\RedisHubLifetimeManagerOverride.csproj", "{0A0A00E2-9903-4908-BC30-5AEA1D5D2F47}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CensoredSignalRApp", "CensoredSignalRApp\CensoredSignalRApp.csproj", "{5F093373-006D-4B86-AD37-3AC3DF695F81}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0A0A00E2-9903-4908-BC30-5AEA1D5D2F47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A0A00E2-9903-4908-BC30-5AEA1D5D2F47}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A0A00E2-9903-4908-BC30-5AEA1D5D2F47}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A0A00E2-9903-4908-BC30-5AEA1D5D2F47}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5F093373-006D-4B86-AD37-3AC3DF695F81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F093373-006D-4B86-AD37-3AC3DF695F81}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F093373-006D-4B86-AD37-3AC3DF695F81}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F093373-006D-4B86-AD37-3AC3DF695F81}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
